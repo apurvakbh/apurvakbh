@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+I a Apurva Bhatt, I am currently working at Jar as a Data Scientist.
+
 
 <!--
 **apurvakbh/apurvakbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
