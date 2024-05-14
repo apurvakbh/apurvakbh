@@ -1,7 +1,22 @@
-### Hey there 👋
-I a Apurva Bhatt, I am currently working at Jar as a Data Scientist.
+<h1 align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Apurva Bhatt </h1>
 
-<h1 align="center">Hi there, I'm Apurva Bhatt  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+### **About me**
+
+- 🔭 I’m currently working at Jar on SMS data (NLP, active learning) and helping the lending team.
+- I have worked in the following domains of ML
+  - Recommendation systems
+  - Computer Vision
+  - NLP
+  - Reinforcement Learning
+  - LLM based solutions for annotation and other smaller tasks
+    
+- I am also working on multiple projects related to GenAI
+    - PoemGPT: Working on fine-tunning GPT to generate poems
+    - others are coming soon.
+
+### Connect with Me 🌟
+LinkedIn: https://www.linkedin.com/in/apurva-bhatt-276258128/
+Email: response2apurva@gmail.com
 
 
 <!--
@@ -9,7 +24,7 @@ I a Apurva Bhatt, I am currently working at Jar as a Data Scientist.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
