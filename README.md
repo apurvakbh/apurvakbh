@@ -15,7 +15,7 @@
     - others are coming soon.
 
 ### Connect with Me 🌟
-LinkedIn: https://www.linkedin.com/in/apurva-bhatt-276258128/
+LinkedIn: https://www.linkedin.com/in/apurva-bhatt-276258128/ <br>
 Email: response2apurva@gmail.com
 
 
